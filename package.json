@@ -1,0 +1,18 @@
+{
+  "name": "vue-super-tables",
+  "version": "0.0.0-dev",
+  "description": "",
+  "main": "n",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "typescript": "^4.5.2",
+    "vite": "^2.6.14"
+  },
+  "keywords": [
+    "table"
+  ],
+  "author": "WhisperCode",
+  "license": "MIT"
+}
